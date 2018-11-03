@@ -1,0 +1,17 @@
+= FSR: The Full Stack Reactive (meta) repository
+
+Parent repository to accompany session/workshop for Full Stack Reactive Java/Kotlin, with special guest appearances by R2DBC (Reactive Relational Database Connectivity) and Java mobile client (COMING SOON!)
+
+== Component repos
+
+* link::https://github.com/mkheck/fsr-java-coffee-service[Coffee service (Java)]
+* link::https://github.com/mkheck/fsr-java-coffee-client[Coffee client (Java)]
+* link::https://github.com/mkheck/fsr-kotlin-coffee-service[Coffee service (Kotlin)]
+* link::https://github.com/mkheck/fsr-kotlin-coffee-client[Coffee client (Kotlin)]
+* link::https://github.com/mkheck/getting-started-r2dbc[Getting started with R2DBC]
+
+== Contact information
+
+* Mark Heckler
+* link::https://twitter.com/mkheck[@mkheck]
+* link::mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
